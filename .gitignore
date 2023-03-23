@@ -3,6 +3,11 @@
 ./vscode
 ./vscode/
 .vscode/
+venv
+/venv/
+venv/
+.venv
+.venv/
 # dependencies
 /node_modules
 /.pnp
