@@ -24,7 +24,7 @@ sudo supervisorctl reread
 sudo supervisorctl update
 sudo supervisorctl status
 
-sudo ln -s /etc/nginx/sites-available/myproject /etc/nginx/sites-enabled/djact.conf
+sudo ln -s /etc/nginx/sites-available/79.127.11.44 /etc/nginx/sites-enabled/79.127.11.44
 sudo certbot — nginx -d 79.127.11.44 -d http://79.127.11.44
 
 #!/bin/bash

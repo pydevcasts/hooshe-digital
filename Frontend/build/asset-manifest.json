@@ -1,27 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.48f2b791.css",
-    "main.js": "/static/js/main.600167f9.js",
-    "static/js/787.241534ed.chunk.js": "/static/js/787.241534ed.chunk.js",
-    "static/media/background-shop.jpg": "/static/media/background-shop.90d41212d0d6b96bc68d.jpg",
-    "static/media/OpenSans.ttf": "/static/media/OpenSans.ceb05254cedfa895b512.ttf",
-    "static/media/Ubuntu-Regular.ttf": "/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
-    "static/media/TiltWarp.ttf": "/static/media/TiltWarp.eb0f4127f0363e1b22e4.ttf",
-    "static/media/hackerff.png": "/static/media/hackerff.c5c455ae8eb5fa0561e3.png",
-    "static/media/wage.png": "/static/media/wage.624b23d6617d0e9b0635.png",
-    "static/media/logo-orginall.png": "/static/media/logo-orginall.6134ca8ad070e9842aab.png",
-    "static/media/hacker-3.png": "/static/media/hacker-3.ee0037c681fcd5ea95ee.png",
-    "static/media/Highpro.ttf": "/static/media/Highpro.5190971e5ef1fde1094a.ttf",
-    "static/media/baveuse3.ttf": "/static/media/baveuse3.4eff74110886bd48f752.ttf",
-    "static/media/pay.png": "/static/media/pay.9cc6906b80916cf9f494.png",
-    "static/media/security.png": "/static/media/security.2d1a019b16e8dd3f38b4.png",
+    "main.css": "/static/css/main.b163488c.css",
+    "main.js": "/static/js/main.eb7e74da.js",
     "index.html": "/index.html",
-    "main.48f2b791.css.map": "/static/css/main.48f2b791.css.map",
-    "main.600167f9.js.map": "/static/js/main.600167f9.js.map",
-    "787.241534ed.chunk.js.map": "/static/js/787.241534ed.chunk.js.map"
+    "main.b163488c.css.map": "/static/css/main.b163488c.css.map",
+    "main.eb7e74da.js.map": "/static/js/main.eb7e74da.js.map"
   },
   "entrypoints": [
-    "static/css/main.48f2b791.css",
-    "static/js/main.600167f9.js"
+    "static/css/main.b163488c.css",
+    "static/js/main.eb7e74da.js"
   ]
 }
